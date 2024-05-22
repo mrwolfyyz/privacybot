@@ -1,6 +1,8 @@
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
+
+from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
 
 import streamlit as st
