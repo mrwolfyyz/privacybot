@@ -9,7 +9,8 @@ st.set_page_config(page_title="Reklaim AI Playground: Privacy Chatbot", page_ico
 st.title("Reklaim AI Playground: Privacy Chatbot")
 
 """
-A basic example of using StreamlitChatMessageHistory to help LLMChain remember messages in a conversation.
+Was my email exposed in a data breach? 
+How do I secure my social accounts? Help me figure out if I at am risk? What are the latest "phishing" attacks targeting seniors?
 The messages are stored in Session State across re-runs automatically. You can view the contents of Session State
 in the expander below. View the
 [source code for this app](https://github.com/langchain-ai/streamlit-agent/blob/main/streamlit_agent/basic_memory.py).
