@@ -5,14 +5,18 @@ from langchain_openai import ChatOpenAI
 
 import streamlit as st
 
-st.set_page_config(page_title="StreamlitChatMessageHistory", page_icon="📖")
-st.title("📖 StreamlitChatMessageHistory")
+st.set_page_config(page_title="Reklaim AI Playground: Chatbot", page_icon="📖")
+st.title("Reklaim AI Playground: Chatbot")
 
 """
-A basic example of using StreamlitChatMessageHistory to help LLMChain remember messages in a conversation.
+Help, my peronal data was exposed in a breach, what should i do?
+
+How do I setup two factor authentication on gmail
+
+What's a good password manager and can you help me setup it up?
+
 The messages are stored in Session State across re-runs automatically. You can view the contents of Session State
-in the expander below. View the
-[source code for this app](https://github.com/langchain-ai/streamlit-agent/blob/main/streamlit_agent/basic_memory.py).
+in the expander below. 
 """
 
 # Set up memory
