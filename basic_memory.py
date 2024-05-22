@@ -84,7 +84,7 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 # chain = prompt | ChatOpenAI(api_key=openai_api_key)
-api_key = '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'
+api_key = st.secrets.groq_api_key
 chain = prompt | ChatGroq(temperature=0, groq_api_key=api_key, model_name="llama3-70b-8192")
 chain_with_history = RunnableWithMessageHistory(
     chain,
