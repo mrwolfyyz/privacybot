@@ -81,11 +81,11 @@ for msg in msgs.messages:
     st.chat_message(msg.type).write(msg.content)
 
 # If user inputs a new prompt, generate and draw a new response
-if user_input := st.chat_input():
-    st.chat_message("human").write(user_input)
+if prompt := st.chat_input():
+    st.chat_message("human").write(prompt)
     # Note: new messages are saved to history automatically by Langchain during run
-    config = {"session_id": "any"}
-    response = chain_with_history.invoke({"question": user_input}, config=config)
+    config = {"configurable": {"session_id": "any"}}
+    response = chain_with_history.invoke({"question": prompt}, config)
     st.chat_message("ai").write(response.content)
 
 # Draw the messages at the end, so newly generated ones show up immediately
