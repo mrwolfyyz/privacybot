@@ -5,8 +5,8 @@ from langchain_openai import ChatOpenAI
 
 import streamlit as st
 
-st.set_page_config(page_title="StreamlitChatMessageHistory", page_icon="📖")
-st.title("📖 StreamlitChatMessageHistory")
+st.set_page_config(page_title="Reklaim AI Playground: Privacy Chatbot", page_icon="📖")
+st.title("Reklaim AI Playground: Privacy Chatbot")
 
 """
 A basic example of using StreamlitChatMessageHistory to help LLMChain remember messages in a conversation.
