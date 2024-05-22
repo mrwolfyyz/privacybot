@@ -15,8 +15,8 @@ How do I setup two factor authentication on gmail
 
 What's a good password manager and can you help me setup it up?
 
-The messages are stored in Session State across re-runs automatically. You can view the contents of Session State
-in the expander below. 
+(The messages are stored in Session State across re-runs automatically. You can view the contents of Session State
+in the expander below. )
 """
 
 # Set up memory
