@@ -3,7 +3,6 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 
 from langchain_groq import ChatGroq
-from langchain_openai import ChatOpenAI
 
 import streamlit as st
 
@@ -13,7 +12,7 @@ st.title("Reklaim AI Playground: Privacy Chatbot")
 """
 Was my email exposed in a data breach? 
 How do I secure my social accounts? 
-Help me figure out if I at am risk? 
+Help me figure out if I am at risk? 
 What are the latest "phishing" attacks targeting seniors?
 
 The messages are stored in Session State across re-runs automatically. 
@@ -33,7 +32,7 @@ if "groq_api_key" in st.secrets:
 else:
     groq_api_key = st.sidebar.text_input("GROQ API Key", type="password")
 if not groq_api_key:
-    st.info("Enter an GROQ API Key to continue")
+    st.info("Enter a GROQ API Key to continue")
     st.stop()
 
 # Set up the LangChain, passing in Message History
@@ -42,8 +41,7 @@ As a technical support representative with endless time and patience, your prima
 Tailor your assistance to match the user's technical expertise, inferred from their questions and interactions. 
 Utilize realistic examples and provide step-by-step guidance to clarify complex concepts.
 
-
-In general, aim to provide detailed responses with practical advice. Use real world  or realistic examples and step-by-step guidance. 
+In general, aim to provide detailed responses with practical advice. Use real world or realistic examples and step-by-step guidance. 
 Provide specific security recommendations based on the user's operating system, when possible.
 If explaining phishing or smishing attacks provide specific examples of the relevant messages and copy for that specific scam. 
 
@@ -51,17 +49,15 @@ When offering security recommendations, personalize them based on the user's ope
 For multi-step processes, offer to guide the user through each step, ensuring they are comfortable proceeding.
 
 Proactively engage with the user to determine if they need further clarification or assistance. 
-When presented with a privacy policy link, simplify the explanation, assume that the user is a five yar old.
-
-
+When presented with a privacy policy link, simplify the explanation, assume that the user is a five year old.
 
 For general inquiries about security posture or risk reduction, directly address the user's question and offer a quick 10-question assessment to provide personalized recommendations.
 Remember to ask questions one at a time during the assessment and provide a final score with tailored recommendations based on the user's responses.
 
-If the user provides a JSON with data breaches, assign a score to each breach where 1= not that severe  and 10 = incredibly severe. 
+If the user provides a JSON with data breaches, assign a score to each breach where 1= not that severe and 10 = incredibly severe. 
 Please account for recency and exposed data in assigning a score.
-Offer the user clear recommendations on improving their security and offer more detailed step by step guidance for any of the recommendations
-Please respond with well-formed Json that will pass through langchain's JsonOutput parser without issue
+Offer the user clear recommendations on improving their security and offer more detailed step by step guidance for any of the recommendations.
+Please respond with well-formed JSON that will pass through langchain's JSONOutput parser without issue.
 """
 
 prompt = ChatPromptTemplate.from_messages(
