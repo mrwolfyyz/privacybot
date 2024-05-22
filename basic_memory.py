@@ -13,9 +13,11 @@ st.title("Reklaim AI Playground: Chatbot")
 """
 Help, my peronal data was exposed in a breach, what should i do?
 
-How do I setup two factor authentication on gmail
+How do I setup two factor authentication on gmail?
 
 What's a good password manager and can you help me setup it up?
+
+How do I know if I am at risk?
 
 (The messages are stored in Session State across re-runs automatically. You can view the contents of Session State
 in the expander below. )
