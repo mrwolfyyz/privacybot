@@ -5,6 +5,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_groq import ChatGroq
 
 import streamlit as st
+import os
 
 # Set LangSmith environment variables
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
