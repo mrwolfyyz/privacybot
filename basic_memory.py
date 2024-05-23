@@ -6,6 +6,11 @@ from langchain_groq import ChatGroq
 
 import streamlit as st
 
+# Set LangSmith environment variables
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_ENDPOINT"] = "<https://api.smith.langchain.com>"
+os.environ["LANGSMITH_API_KEY"] = st.secrets.langsmith_api_key
+
 st.set_page_config(page_title="Reklaim AI Playground: Chatbot", page_icon="📖")
 st.title("Reklaim AI Playground: Chatbot")
 
