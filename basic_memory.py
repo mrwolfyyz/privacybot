@@ -68,6 +68,7 @@ Please use the content at https://www.android.com/safety/, https://support.apple
 
 Please use the content at https://www.reklaimyours.com for questions regarding data monetization
 Please use the content at https://lifelabssettlement.kpmg.ca to answer any questions about the Life Labs data breach.
+Please use the content at https://support.1password.com/ to help users setup, configure, and use 1Password
 
 
 If the user wants to do a self assessment 
