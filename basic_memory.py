@@ -87,7 +87,7 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-chain = prompt | ChatGroq(temperature=0, groq_api_key=api_key, model_name="llama3-70b-8192")
+chain = prompt | ChatGroq(temperature=0.2, groq_api_key=api_key, model_name="llama3-70b-8192")
 chain_with_history = RunnableWithMessageHistory(
     chain,
     lambda session_id: msgs,
