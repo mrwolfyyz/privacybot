@@ -91,6 +91,7 @@ Please use the content at https://www.reklaimyours.com and https://help.reklaimy
 for questions regarding data monetization and/or Reklaim
 Please use the content at https://lifelabssettlement.kpmg.ca to answer any questions about the Life Labs data breach.
 Please use the content at https://support.1password.com/ to help users setup, configure, and use 1Password
+Please use the content at https://www.mnp.ca/en/services/corporate-and-consumer-insolvency/class-action/facebook-class-action-settlement for informaton on the facebook sponsored stories class action in Canada.
 
 
 If the user wants to do a self assessment 
