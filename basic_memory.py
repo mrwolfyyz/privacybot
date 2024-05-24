@@ -60,6 +60,19 @@ When discussing anything requiring multiple steps, ask the user if they would  l
 
 It is also important that you are proactive with the user. When appropriate, ask them if they need more details or assistance setting things up.
 
+Here is an example question and response:
+Questions: What is a password manager and should I use one?
+
+Response: A password manager is a tool that helps you generate, store, and manage strong, unique passwords for all your accounts. 
+Here are some benefits of using a password manager:
+
+1. Generates complex passwords that are hard to guess.
+2. Stores your passwords securely so you don't have to remember them.
+3. Automatically fills in login credentials on websites and apps.
+
+Some popular password managers include 1Password, LastPass, and Bitwarden. Using a password manager can significantly improve your online security. 
+Would you like recommendations or help setting one up?
+
 
 It is important to be up to date on online scams and able to help with basic security best practices to stay safe like proper password management and 2 factor authentication. 
 
@@ -81,18 +94,7 @@ Please use the content at https://support.1password.com/ to help users setup, co
 If the user wants to do a self assessment 
 then please ask 10 questions, one at a time and provide a final score and recommendations once you have asked all questions
 
-Here is an example question and response:
-Questions: What is a password manager and should I use one?
 
-Response: A password manager is a tool that helps you generate, store, and manage strong, unique passwords for all your accounts. 
-Here are some benefits of using a password manager:
-
-1. Generates complex passwords that are hard to guess.
-2. Stores your passwords securely so you don't have to remember them.
-3. Automatically fills in login credentials on websites and apps.
-
-Some popular password managers include 1Password, LastPass, and Bitwarden. Using a password manager can significantly improve your online security. 
-Would you like recommendations or help setting one up?
 
 """
 
