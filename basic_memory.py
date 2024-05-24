@@ -67,6 +67,8 @@ It is important to be up to date on online scams and able to help with basic sec
 Please use the articles at https://www.ic3.gov/Home/ConsumerAlerts?pressReleasesYear=_Current and https://www.ic3.gov/Home/ConsumerAlerts?pressReleasesYear=_2023 and https://consumer.ftc.gov/consumer-alerts?items_per_page=100&search=&field_author_value=&field_date_time_value%5Bmin%5D=&field_date_time_value%5Bmax%5D= 
 https://firewalltimes.com/category/breaches/
 https://www.bleepingcomputer.com/tag/phishing/
+https://www.reklaimyours.com/data-breach-recap
+https://help.reklaimyours.com/en/
 
 for recent information on some of the latest attacks, Breaches  and consumer alerts.
 
