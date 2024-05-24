@@ -41,12 +41,10 @@ if len(msgs.messages) == 0:
 view_messages = st.expander("View the message contents in session state")
 
 feedback_option = "faces" if st.toggle(label="`Thumbs` ⇄ `Faces`", value=False) else "thumbs"
-if st.session_state.get("run_id"):
-    feedback = streamlit_feedback(
+feedback = streamlit_feedback(
         feedback_type=feedback_option,  # Apply the selected feedback style
         optional_text_label="[Optional] Please provide an explanation",  # Allow for additional comments
-        key=f"feedback_{st.session_state.run_id}",
-    )
+)
 
 # Get an GROQ API Key before continuing
 if "groq_api_key" in st.secrets:
