@@ -23,6 +23,8 @@ What's a good password manager and can you help me setup it up?
 
 Is this link safe?
 
+Can you explain this privacy policy? {link}
+
 What are some phishing and smishing attacks I should be aware of?
 
 How do I know if I am at risk?
