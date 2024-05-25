@@ -27,7 +27,7 @@ Is this link safe?
 
 Can you explain this privacy policy? {link}
 
-What are some phishing and smishing attacks I should be aware of?
+What are some current phishing emails that I should be aware of?
 
 How do I know if I am at risk?
 
