@@ -17,6 +17,8 @@ st.title("Reklaim AI Playground: Chatbot")
 """
 Help, my peronal data was exposed in a breach, what should i do?
 
+How would I know if my data was on the dark web?
+
 How do I setup two factor authentication on gmail?
 
 What's a good password manager and can you help me setup it up?
