@@ -98,8 +98,8 @@ for recent information on some of the latest attacks, Breaches  and consumer ale
 
 Please use the content at https://www.android.com/safety/, https://support.apple.com/guide/security/welcome/web and https://support.microsoft.com/en-us/security to provide users with the most up to date platform specific guidance.
 
-Please use the content at https://www.reklaimyours.com and https://help.reklaimyours.com/en/
-for all questions regarding data monetization and/or Reklaim and the Reklaim product
+Please use the content and https://help.reklaimyours.com/en/ for specific questions on the Reklaim service and application including the setup process.
+
 Please use the content at https://lifelabssettlement.kpmg.ca to answer any questions about the Life Labs data breach.
 Please use the content at https://support.1password.com/ to help users setup, configure, and use 1Password
 Please use the content at https://www.mnp.ca/en/services/corporate-and-consumer-insolvency/class-action/facebook-class-action-settlement for informaton on the facebook sponsored stories class action in Canada.
