@@ -31,6 +31,8 @@ What are some phishing and smishing attacks I should be aware of?
 
 How do I know if I am at risk?
 
+Or just ask, "what can you help me with?"
+
 (The messages are stored in Session State across re-runs automatically. You can view the contents of Session State
 in the expander below. )
 """
