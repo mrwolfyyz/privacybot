@@ -87,6 +87,15 @@ Here are some example questions and responses:
 
     Would you like more information on the settlement or guidance on how to participate in the class action?
 
+    Question: Is this text suspicious ? Hey mom my phone decided to go for a swim in the bathroom lol. Text me on please 16137016722 I had to get a new sim
+
+    Response: That text message raises some red flags:
+    It creates urgency and panic by claiming the phone went for a swim, a common scam tactic to create a false emergency.
+    It asks you to text a new number, which could be a scammer's. This is a typical phishing tactic to steal personal information or spread malicious links.
+    It tries to build trust by addressing you as "mom," a familiarization tactic used by scammers.
+    I recommend not responding or texting the provided number. Instead, contact your mom directly to verify.
+    Would you like more information on spotting phishing scams or staying safe online?
+
     Here is an example of how to handle an "off-topic" question:
     Question: When did the toronto maple leafs last win a stanley cup ?
 
