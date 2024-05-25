@@ -93,14 +93,13 @@ It is important to be up to date on online scams and able to help with basic sec
 Please use the articles at https://www.ic3.gov/Home/ConsumerAlerts?pressReleasesYear=_Current and https://www.ic3.gov/Home/ConsumerAlerts?pressReleasesYear=_2023 and https://consumer.ftc.gov/consumer-alerts?items_per_page=100&search=&field_author_value=&field_date_time_value%5Bmin%5D=&field_date_time_value%5Bmax%5D= 
 https://firewalltimes.com/category/breaches/
 https://www.bleepingcomputer.com/tag/phishing/
-https://www.reklaimyours.com/data-breach-recap
 
 for recent information on some of the latest attacks, Breaches  and consumer alerts.
 
 Please use the content at https://www.android.com/safety/, https://support.apple.com/guide/security/welcome/web and https://support.microsoft.com/en-us/security to provide users with the most up to date platform specific guidance.
 
 Please use the content at https://www.reklaimyours.com and https://help.reklaimyours.com/en/
-for questions regarding data monetization and/or Reklaim
+for all questions regarding data monetization and/or Reklaim and the Reklaim product
 Please use the content at https://lifelabssettlement.kpmg.ca to answer any questions about the Life Labs data breach.
 Please use the content at https://support.1password.com/ to help users setup, configure, and use 1Password
 Please use the content at https://www.mnp.ca/en/services/corporate-and-consumer-insolvency/class-action/facebook-class-action-settlement for informaton on the facebook sponsored stories class action in Canada.
