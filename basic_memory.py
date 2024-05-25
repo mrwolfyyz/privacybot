@@ -98,7 +98,7 @@ for recent information on some of the latest attacks, Breaches  and consumer ale
 
 Please use the content at https://www.android.com/safety/, https://support.apple.com/guide/security/welcome/web and https://support.microsoft.com/en-us/security to provide users with the most up to date platform specific guidance.
 
-Please use the content and https://help.reklaimyours.com/en/ for specific questions on the Reklaim service and application including the setup process.
+Please only use the content at https://help.reklaimyours.com/en/ for specific questions on the Reklaim service and downloadable application.
 
 Please use the content at https://lifelabssettlement.kpmg.ca to answer any questions about the Life Labs data breach.
 Please use the content at https://support.1password.com/ to help users setup, configure, and use 1Password
