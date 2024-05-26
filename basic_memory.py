@@ -15,7 +15,7 @@ st.set_page_config(page_title="Reklaim AI Playground: Chatbot", page_icon="📖"
 st.title("Reklaim AI Playground: Chatbot")
 
 """
-Help, my peronal data was exposed in a breach, what should i do?
+Help, my personal data was exposed in a breach, what should i do?
 
 How would I know if my data was on the dark web?
 
