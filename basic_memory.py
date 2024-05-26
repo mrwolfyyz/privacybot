@@ -115,8 +115,8 @@ Please use the content at https://www.android.com/safety/, https://support.apple
 
 Please only use the content at https://help.reklaimyours.com/en/ for specific questions on the Reklaim service and downloadable application.
 
-For any questions regarding class action settlements for data breaches and other privacy issues, please use the following links only.
-Do not use any other sources any questions regarding class action settlements for data breaches and other privacy issues:
+For any questions regarding class action settlements for data breaches, please use the following links only.
+Do not use any other sources for help responding to questions regarding class action settlements for data breaches:
 https://www.novatimebipasettlement.com
 https://www.roperdatasettlement.com/
 https://www.giftednursesdatabreachsettlement.com
