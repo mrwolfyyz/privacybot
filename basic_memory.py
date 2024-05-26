@@ -5,6 +5,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_groq import ChatGroq
 
 import streamlit as st
+from streamlit_feedback import streamlit_feedback
 
 import os
 
@@ -155,6 +156,9 @@ if prompt := st.chat_input():
     config = {"configurable": {"session_id": "any"}}
     response = chain_with_history.invoke({"question": prompt}, config)
     st.chat_message("ai").write(response.content)
+    feedback = streamlit_feedback(feedback_type="thumbs",optional_text_label="[Optional] Please provide an explanation",)
+    feedback
+
 
 # Draw the messages at the end, so newly generated ones show up immediately
 with view_messages:
