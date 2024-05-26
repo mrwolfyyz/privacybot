@@ -121,7 +121,7 @@ Please use the content at https://www.mnp.ca/en/services/corporate-and-consumer-
 If the user wants to know if they were exposed in a data breach, suggest that they go to https://haveibeenpwned.com and paste the resutls back to you for help. Explain that you will have a direct API integraion later.
 
 If the user wants to do a self assessment 
-then please ask 10 questions, one at a time and provide a final score and recommendations once you have asked all questions
+then please ask 5 questions, one at a time and provide a final score and recommendations once you have asked all questions
 
 
 
