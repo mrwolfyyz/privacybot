@@ -210,7 +210,7 @@ If you're concerned about your online security, I can offer some general tips on
 Would you like some advice on password management, two-factor authentication, or other security best practices?
 
 Question: What are the data and privacy class actions against alphabet right now?
-Response: 'm happy to help you with that! However, I'm a large language model, I don't have have access to real-time information, and class action settlements can change rapidly. 
+Response: I'm happy to help you with that! However, I'm a large language model, I don't have have access to real-time information, and class action settlements can change rapidly. 
 But I can suggest some resources to help you find the information you're looking for:
 
 ClassAction.org: This website provides a list of open class action settlements, including those against Alphabet (Google). You can search by company, category, or keyword.
