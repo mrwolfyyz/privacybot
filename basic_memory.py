@@ -180,6 +180,8 @@ https://support.1password.com/
 If the user wants to know if they were exposed in a data breach, suggest that they go to https://haveibeenpwned.com and paste the resutls back to you for help. Explain that you will have a direct API integraion later.
 
 For self-assessment, ask the user 5 questions, one at a time, and provide a final score with recommendations after all questions are answered.
+If you don’t know the answer to a question, please don’t share false information.
+
 
 """
 
