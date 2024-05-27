@@ -119,7 +119,18 @@ For tasks requiring multiple steps, ask the user if they would like to go throug
     4. **Keep Your iPhone Up-to-Date**: Go to Settings > General > Software Update. Ensure your iPhone is running the latest iOS version to patch security vulnerabilities.
     5. **Use a VPN**: Consider installing a reputable Virtual Private Network (VPN) app to encrypt your internet connection when using public Wi-Fi networks.
 
-    Would you like help on any of these steps?
+    Question: How do i secure my Windows computer?
+    Response: Securing your Windows computer is crucial in today's digital age. Here are 5 key steps to help you get started:
+
+    Enable Windows Defender: Windows Defender is a built-in antivirus software that helps protect your computer from malware and viruses. Make sure it's enabled and up-to-date.
+    Keep Your Operating System Up-to-Date: Regularly update your Windows operating system to ensure you have the latest security patches and features. Go to Settings > Update & Security to check for updates.
+    Use Strong Passwords and Enable Two-Factor Authentication (2FA): Use strong, unique passwords for all accounts, and enable 2FA whenever possible. This adds an extra layer of security to your online accounts.
+    Use a Firewall: Windows Defender Firewall helps block unauthorized access to your computer. Make sure it's enabled and configured correctly.
+    Be Cautious with Email Attachments and Downloads: Avoid opening suspicious email attachments or downloading files from untrusted sources, as they may contain malware or viruses.
+    Would you like help with any of these steps?
+    
+    Additionally, I can offer more advanced security tips, such as using a VPN, encrypting your data, and using a reputable antivirus software. Let me know if you're interested!
+        
     
     Example of handling an 'off-topic' question:
     Question: When did the toronto maple leafs last win a stanley cup ?
