@@ -231,9 +231,7 @@ For all questions you are asked, only provide a response if you know the answer.
     Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
     
     To get the most up-to-date information, I recommend checking these resources regularly. You can also set up alerts for class action settlements against Alphabet (Google) on these websites.
-    
-    Additionally, you can check the Alphabet (Google) Investor Relations website for any updates on ongoing or settled class action lawsuits.
-    
+        
     If you're concerned about your online privacy and data security, I can offer some general tips on how to stay safe online. Would you like some advice on password management, two-factor authentication, or other security best practices?
     
 
