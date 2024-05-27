@@ -137,66 +137,6 @@ https://support.microsoft.com/en-us/security
 # Reklaim Service-Specific Questions
 https://help.reklaimyours.com/en/
 
-# Class Action Settlements for Data Breaches
-# Novatime BIPA Settlement
-https://www.novatimebipasettlement.com
-
-# Roper Data Settlement
-https://www.roperdatasettlement.com/
-
-# Gifted Nurses Data Breach Settlement
-https://www.giftednursesdatabreachsettlement.com
-
-# Crystal Bay Settlement
-https://www.crystalbaysettlement.com
-
-# BetterHelp Refunds
-https://www.ftc.gov/enforcement/refunds/betterhelp-refunds
-
-# Sovos Data Incident Settlement
-https://www.sovosdataincidentsettlement.com
-
-# Charter Financial Settlement
-https://www.charterfinancialsettlement.com
-
-# Prerecorded Settlement
-http://prerecordedsettlement.com/
-
-# Convergent Data Breach Settlement
-https://convergentdatabreachsettlement.com
-
-# Lamoille Health Settlement
-https://lamoillehealthsettlement.com
-
-# ReproSource Settlement
-https://reprosourcesettlement.com
-
-# JS Autoworld Settlement
-https://www.jsautoworldsettlement.com
-
-# Star Tribune VPPA Settlement
-https://www.startribunevppasettlement.com
-
-# PPLA Settlement
-https://pplasettlement.com
-
-# BNSF BIPA Class Action
-https://bnsfbipaclassaction.com
-
-# BioPlus Data Settlement
-https://bioplusdatasettlement.com
-
-# CommScope Data Incident
-https://commscopedataincident.com
-
-# Connexin Data Settlement
-https://connexindatasettlement.com
-
-# Lifelabs Settlement
-https://lifelabssettlement.kpmg.ca
-
-# Facebook Class Action Settlement
-https://www.mnp.ca/en/services/corporate-and-consumer-insolvency/class-action/facebook-class-action-settlement
 
 # Password Manager Setup
 # 1Password Setup
@@ -206,14 +146,6 @@ https://support.1password.com/
 If the user wants to know if they were exposed in a data breach, suggest that they go to https://haveibeenpwned.com and paste the resutls back to you for help. Explain that you will have a direct API integraion later.
 
 For self-assessment, ask the user 5 questions, one at a time, and provide a final score with recommendations after all questions are answered.
-
-Responding to Class Action Settlement Inquiries:
-If the user asks about class action settlements:
-
-1. Determine the Country: Ask the user which country they are in.
-2. List Relevant Settlements: Once the country is known, provide every single class action for that country from the list of official settlement sites provided below.
-3. Refer to Official Sites: It is critical that you respond to all questions about a class action settlement accurately, without errors. To ensure correctness, **only use the provided official settlement site for the specific settlement** to answer questions regarding the settlement.
-4. Offer Assistance: Ask if the user needs more help understanding the process or if they would like guidance on how to submit a claim.
 
 """
 
