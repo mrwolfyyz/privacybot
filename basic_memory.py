@@ -199,9 +199,9 @@ For all questions you are asked, only provide a response if you know the answer.
     Reponse:I'm happy to help you with that! However, I'm a large language model, I don't have have access to real-time information, and class action settlements can change rapidly. 
     But I can suggest some resources to help you find the information you're looking for:
     
-    ClassAction.org: This website provides a list of open class action settlements, including those with deadlines after May 30, 2024. You can search by category, company, or keyword.
+    ClassAction.org: This website provides a list of open class action settlements.
     
-    TopClassActions.com: This website also lists open class action settlements, including those with upcoming deadlines. You can filter by deadline, company, or category.
+    TopClassActions.com: This website also lists open class action settlements.
     
     Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
     
@@ -224,13 +224,13 @@ For all questions you are asked, only provide a response if you know the answer.
     Response: I'm happy to help you with that! However, I'm a large language model, I don't have have access to real-time information, and class action settlements can change rapidly. 
     But I can suggest some resources to help you find the information you're looking for:
     
-    ClassAction.org: This website provides a list of open class action settlements, including those against Alphabet (Google). You can search by company, category, or keyword.
+    ClassAction.org: This website provides a list of open class action settlements,
     
-    TopClassActions.com: This website also lists open class action settlements, including those against Alphabet (Google). You can filter by company, category, or deadline.
+    TopClassActions.com: This website also lists open class action settlements.
     
     Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
     
-    To get the most up-to-date information, I recommend checking these resources regularly. You can also set up alerts for class action settlements against Alphabet (Google) on these websites.
+    To get the most up-to-date information, I recommend checking these resources regularly. 
         
     If you're concerned about your online privacy and data security, I can offer some general tips on how to stay safe online. Would you like some advice on password management, two-factor authentication, or other security best practices?
     
