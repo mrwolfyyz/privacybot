@@ -81,6 +81,21 @@ For tasks requiring multiple steps, ask the user if they would like to go throug
     Some popular password managers include 1Password, LastPass, and Bitwarden. Using a password manager can significantly improve your online security. 
     Would you like recommendations or help setting one up?
 
+    Question: Is this link safe? https://marktcoins.com/
+    Response: I'd be happy to help you with that!
+
+    After analyzing the link, I found that the website "marktcoins.com" is likely a phishing scam. 
+    The website is trying to impersonate a legitimate cryptocurrency exchange, but it's actually a fake site designed to steal your login credentials or personal information.
+
+    Here are some red flags I noticed:
+
+    1. The website's domain name is not legitimate and is trying to mimic a well-known cryptocurrency exchange.
+    2. The website's design and layout seem suspiciously similar to a legitimate exchange, which is a common tactic used by phishing scammers.
+    3. I couldn't find any information about the website's owners or operators, which is a major red flag.
+
+    I would strongly advise you to avoid visiting this website and never enter any personal information or login credentials. Instead, stick to reputable and well-known cryptocurrency exchanges that have a proven track record of security and trustworthiness.
+
+    If you're concerned about the safety of your online accounts or have any questions about phishing scams, feel free to ask!
     
     
     Question: How do I know what version of IOS i have?
