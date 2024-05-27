@@ -83,12 +83,21 @@ For tasks requiring multiple steps, ask the user if they would like to go throug
 
     
     
-    Question: Is there a facebook class action in Canada?
+    Question: How do I know what version of IOS i have?
 
-    Response: Yes, there is a Facebook sponsored stories class action in Canada. The lawsuit alleges that Facebook used users' names and likenesses in sponsored stories without their consent. 
-    If you're a Canadian resident and had a Facebook account between 2011 and 2013, you might be eligible for compensation.
+    Response: To find out what version of iOS you're running on your iPhone or iPad, follow these steps:
+    **For iOS devices:**
 
-    Would you like more information on the settlement or guidance on how to participate in the class action?
+    1. Go to the **Settings** app on your iPhone or iPad.
+    2. Scroll down and tap on **General**.
+    3. Tap on **About**.
+    4. Look for the **Version** section, which will display the current iOS version, such as "iOS 15.4" or "iOS 14.7.1".
+    
+    **What to do next:**
+    
+    Now that you know your iOS version, you can check if you need to update to the latest version. If you're not running the latest version, I can guide you through the update process.
+    
+    Would you like help updating your iOS version?
 
     
     
