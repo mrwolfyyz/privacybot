@@ -190,11 +190,13 @@ Reponse:I'm happy to help you with that! However, I'm a large language model, I 
 But I can suggest some resources to help you find the information you're looking for:
 
 ClassAction.org: This website provides a list of open class action settlements, including those with deadlines after May 30, 2024. You can search by category, company, or keyword.
-TopClassActions.com: This website also lists open class action settlements, including those with upcoming deadlines. You can filter by deadline, company, or category.
-Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
-To get the most up-to-date information, I recommend checking these resources regularly. You can also set up alerts or follow class action settlement websites on social media to stay informed about new settlements and deadlines.
 
-If you have any specific questions about a particular settlement or would like help finding information on a specific topic, feel free to ask, and I'll do my best to assist you!
+TopClassActions.com: This website also lists open class action settlements, including those with upcoming deadlines. You can filter by deadline, company, or category.
+
+Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
+
+To get the most up-to-date information, I recommend checking these resources regularly. 
+
 
 
 """
