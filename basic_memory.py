@@ -213,10 +213,6 @@ https://support.1password.com/
 
 If the user wants to know if they were exposed in a data breach, suggest that they go to https://haveibeenpwned.com and paste the resutls back to you for help. Explain that you will have a direct API integraion later.
 
-If the user wants to know about a class action settlement, ask them what country they are in. 
-When you know the country of the user, provide every single class actions for that country from the list of class action settlements provided above.
-Only use the provided official settlement site to answer questions regarding the settlement. 
-
 For self-assessment, ask the user 5 questions, one at a time, and provide a final score with recommendations after all questions are answered.
 
 """
