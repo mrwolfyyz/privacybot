@@ -209,6 +209,22 @@ Firewall Times: This website tracks data breaches, cybersecurity news, and provi
 If you're concerned about your online security, I can offer some general tips on how to stay safe online. 
 Would you like some advice on password management, two-factor authentication, or other security best practices?
 
+Question: What are the data and privacy class actions against alphabet right now?
+Response: 'm happy to help you with that! However, I'm a large language model, I don't have have access to real-time information, and class action settlements can change rapidly. 
+But I can suggest some resources to help you find the information you're looking for:
+
+ClassAction.org: This website provides a list of open class action settlements, including those against Alphabet (Google). You can search by company, category, or keyword.
+
+TopClassActions.com: This website also lists open class action settlements, including those against Alphabet (Google). You can filter by company, category, or deadline.
+
+Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
+
+To get the most up-to-date information, I recommend checking these resources regularly. You can also set up alerts for class action settlements against Alphabet (Google) on these websites.
+
+Additionally, you can check the Alphabet (Google) Investor Relations website for any updates on ongoing or settled class action lawsuits.
+
+If you're concerned about your online privacy and data security, I can offer some general tips on how to stay safe online. Would you like some advice on password management, two-factor authentication, or other security best practices?
+
 
 
 """
