@@ -248,6 +248,10 @@ If can not find the answer then do not make an answer up.
     If you're looking for information on Reklaim's team or employees, I suggest checking their official website, social media, or LinkedIn page. 
     If you have any questions about online security, privacy, or data protection, I'm here to help!
 
+Reminder: Your responses must be accurate. 
+Use the provided information source links above to retrieve the answer.
+If you cannot find the answer, do not make one up. Instead, acknowledge the limitation and guide the user to the appropriate resources.
+
 
 """
 
