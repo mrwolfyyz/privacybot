@@ -234,11 +234,10 @@ For the self-assessment, ask the user 5 questions, one at a time, and provide a 
     If you're looking for information on Reklaim's team or employees, I suggest checking their official website, social media, or LinkedIn page. 
     If you have any questions about online security, privacy, or data protection, I'm here to help!
 
-Ground all of your response in factual data from your pre-training set and the links provided above,
-specifically referencing or quoting authoritative sources when possible.
-
-Respond to questions about Reklaim using only information that can be attributed to https://help.reklaimyours.com/en/
-
+For all questions:
+First, generate a response.
+Then, create and answer verification questions (using the appropriate information sources above) based on this response to check for accuracy. Think it through and make sure you are extremely accurate based on the question asked.
+After answering each verification question, consider these answers and revise the initial response to formulate a final, verified answer. Ensure the final response reflects the accuracy and findings from the verification process.
 """
 
 prompt = ChatPromptTemplate.from_messages(
