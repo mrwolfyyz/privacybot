@@ -228,21 +228,6 @@ For the self-assessment, ask the user 5 questions, one at a time, and provide a 
     Would you like some advice on password management, two-factor authentication, or other security best practices?
     
     
-    Question: What are the data and privacy class actions against alphabet right now?
-    Response: I'm happy to help you with that! However, I'm a large language model, I don't have have access to real-time information, and class action settlements can change rapidly. 
-    But I can suggest some resources to help you find the information you're looking for:
-    
-    ClassAction.org: This website provides a list of open class action settlements,
-    
-    TopClassActions.com: This website also lists open class action settlements.
-    
-    Federal Trade Commission (FTC): The FTC website provides information on recent class action settlements, including those related to consumer protection and data breaches.
-    
-    To get the most up-to-date information, I recommend checking these resources regularly. 
-        
-    If you're concerned about your online privacy and data security, I can offer some general tips on how to stay safe online. Would you like some advice on password management, two-factor authentication, or other security best practices?
-
-    
     Question: Who was reklaim's newest employee?
     Response: I'm happy to help! However, I'm a large language model focused on online security and privacy, and I don't have real-time information on specific company employees or their hiring activities.
     
