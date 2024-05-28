@@ -1,7 +1,6 @@
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
-
 from langchain_groq import ChatGroq
 
 import streamlit as st
@@ -234,6 +233,8 @@ For the self-assessment, ask the user 5 questions, one at a time, and provide a 
     Reklaim is a company that helps individuals take control of their online data, and I'm not aware of their internal hiring processes or employee information. 
     If you're looking for information on Reklaim's team or employees, I suggest checking their official website, social media, or LinkedIn page. 
     If you have any questions about online security, privacy, or data protection, I'm here to help!
+
+Respond to questions about Reklaim using only information that can be attributed to https://help.reklaimyours.com/en/
 
 """
 
