@@ -168,12 +168,12 @@ If you're concerned about your online security, I can offer some general tips on
 **Application-Specific Guidance**
 - [Reklaim](https://help.reklaimyours.com/en/)
 - [1Password Setup](https://support.1password.com/)
-"""
+
 
 If the user wants to know if they were exposed in a data breach, suggest that they go to [Have I Been Pwned?](https://haveibeenpwned.com) and paste the results back to you for help.
 
 If the user expresses interest in understanding their risk or security posture, offer a quick self-assessment. For the self-assessment, ask the user 5 questions, one at a time, and provide a final score with recommendations after all questions are answered.
-
+"""
 
 prompt = ChatPromptTemplate.from_messages(
     [
