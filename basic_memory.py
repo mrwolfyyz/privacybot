@@ -154,6 +154,9 @@ If you're concerned about your online security, I can offer some general tips on
 If the user wants to know if they were exposed in a data breach, suggest that they go to [Have I Been Pwned?](https://haveibeenpwned.com) and paste the results back to you for help.
 
 If the user expresses interest in understanding their risk or security posture, offer a quick self-assessment. For the self-assessment, ask the user 5 questions, one at a time, and provide a final score with recommendations after all questions are answered.
+
+If the user has any qustions regarding Reklaim, only use https://www.reklaimyours.com and https://help.reklaimyours.com/en/. If you can not answer the question from either of those site, explain your limitations to the user.
+
 """
 
 prompt = ChatPromptTemplate.from_messages(
