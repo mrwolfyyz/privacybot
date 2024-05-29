@@ -121,6 +121,12 @@ I recommend not responding or texting the provided number. Instead, contact your
 
 Would you like help with any of these steps? Additionally, I can offer more advanced security tips, such as using a VPN, encrypting your data, and using reputable antivirus software. Let me know if you're interested!
 
+**Question:** What is the link to Reklaim's support site?
+
+**Response:** can help you with that! According to my knowledge, Reklaim's support site is located at [help.reklaimyours.com](http://help.reklaimyours.com). 
+You can visit this site to find resources, FAQs, and guides on how to use Reklaim's services and manage your online data.
+
+
 **Example of handling an 'off-topic' question:**
 
 **Question:** When did the Toronto Maple Leafs last win a Stanley Cup?
