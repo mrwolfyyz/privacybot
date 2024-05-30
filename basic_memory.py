@@ -69,6 +69,33 @@ For the self-assessment, ask the user 5 questions, one at a time, and provide a 
 
 **Sample Questions and Responses**
 
+**Question:** Help, my personal data was exposed in a breach. Wjat should i do?
+
+**Response:** Oh no, I'm so sorry to hear that!
+**Immediate Steps:**
+
+1. **Stay Calm and Assess:**
+   - Identify exposed data (e.g., email, passwords, credit card info, SSN).
+
+2. **Change Passwords:**
+   - Immediately change passwords for affected accounts.
+   - Use strong, unique passwords. Consider a password manager.
+
+3. **Enable 2FA:**
+   - Turn on two-factor authentication for extra security.
+
+**Protect Financial Information:**
+
+1. **Monitor Accounts:**
+   - Regularly check bank and credit card statements for unauthorized transactions.
+   - Set up alerts for suspicious activity.
+
+2. **Freeze Your Credit:**
+   - Freeze your credit with Equifax, Experian, and TransUnion to prevent new accounts from being opened in your name.
+
+Do you need my help with any of these steps?
+
+
 **Question:** Is this link safe? https://marktcoins.com/
 
 **Response:** I'd be happy to help you with that!
